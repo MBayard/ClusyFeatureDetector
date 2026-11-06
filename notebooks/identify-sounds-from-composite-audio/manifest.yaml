@@ -1,0 +1,118 @@
+name: Identify sounds from composite audio
+language: python
+id: 200ddfbc-983e-473f-92f4-93a8a0bd79e5
+primary_branch_id: 4f9157ba-57a9-440e-9e4a-34059d11a984
+branches:
+  - id: 4f9157ba-57a9-440e-9e4a-34059d11a984
+    name: main
+    cells:
+      - id: 0a3de7f5-6fac-4de1-bfb1-8efcd1c60a18
+        type: code
+        position: 0
+        parent: null
+        language: python
+      - id: dee61024-60c9-44f6-8d18-b6def419a6d7
+        type: code
+        position: 1
+        parent: 0a3de7f5-6fac-4de1-bfb1-8efcd1c60a18
+        language: python
+      - id: ce4dd9d5-cdcd-4eba-87fc-66ec0a14fccc
+        type: code
+        position: 2
+        parent: dee61024-60c9-44f6-8d18-b6def419a6d7
+        language: python
+      - id: 22762c85-0d5b-4522-abcf-1982a949a57c
+        type: code
+        position: 3
+        parent: ce4dd9d5-cdcd-4eba-87fc-66ec0a14fccc
+        language: python
+      - id: 70ca143d-4674-498d-b1b0-3cdd38e5fe09
+        type: code
+        position: 4
+        parent: 22762c85-0d5b-4522-abcf-1982a949a57c
+        language: python
+      - id: 4f397118-e4b9-4cf2-b8fc-eeb4cb54d13a
+        type: code
+        position: 5
+        parent: 70ca143d-4674-498d-b1b0-3cdd38e5fe09
+        language: python
+      - id: a00d0d14-75d7-43d1-843d-0634546cbc11
+        type: code
+        position: 6
+        parent: 4f397118-e4b9-4cf2-b8fc-eeb4cb54d13a
+        language: python
+      - id: 5c826cbd-09aa-441a-8735-fbdc4b77b3aa
+        type: code
+        position: 7
+        parent: a00d0d14-75d7-43d1-843d-0634546cbc11
+        language: python
+      - id: d0b64b83-53d8-4dc0-9878-41a7253d33e3
+        type: code
+        position: 8
+        parent: 5c826cbd-09aa-441a-8735-fbdc4b77b3aa
+        language: python
+      - id: ad6c5b4a-3bfb-4e70-b463-89740fdc6beb
+        type: code
+        position: 9
+        parent: d0b64b83-53d8-4dc0-9878-41a7253d33e3
+        language: python
+      - id: a992cecf-d773-46cc-a1ff-5563ff2540e1
+        type: markdown
+        position: 10
+        parent: ad6c5b4a-3bfb-4e70-b463-89740fdc6beb
+        language: python
+      - id: e8a6e204-d6c3-4c3c-a1b0-8fb573dfaf25
+        type: code
+        position: 11
+        parent: a992cecf-d773-46cc-a1ff-5563ff2540e1
+        language: python
+      - id: f9709c52-1158-4af1-8807-96e78cd3d7dc
+        type: code
+        position: 12
+        parent: e8a6e204-d6c3-4c3c-a1b0-8fb573dfaf25
+        language: python
+      - id: cc3896cb-3390-48b7-a168-1e7c76b8786f
+        type: markdown
+        position: 13
+        parent: f9709c52-1158-4af1-8807-96e78cd3d7dc
+        language: python
+      - id: 199023d0-8acf-4a0f-8249-e8cc4faf3cf0
+        type: code
+        position: 14
+        parent: cc3896cb-3390-48b7-a168-1e7c76b8786f
+        language: python
+      - id: 6578d176-f7b7-4e29-aeac-ab33f87da666
+        type: code
+        position: 15
+        parent: 199023d0-8acf-4a0f-8249-e8cc4faf3cf0
+        language: python
+      - id: bbe1d909-3c01-481e-bb8c-6c93480acb8d
+        type: markdown
+        position: 16
+        parent: 6578d176-f7b7-4e29-aeac-ab33f87da666
+        language: python
+      - id: 807114be-0db3-4db2-88c5-c437a5d9d31b
+        type: code
+        position: 17
+        parent: bbe1d909-3c01-481e-bb8c-6c93480acb8d
+        language: python
+      - id: dc231de2-c502-44a6-a2ed-39bfa4176797
+        type: code
+        position: 18
+        parent: 807114be-0db3-4db2-88c5-c437a5d9d31b
+        language: python
+      - id: aca7a514-6c25-4f7a-8145-539d4f332c69
+        type: markdown
+        position: 19
+        parent: dc231de2-c502-44a6-a2ed-39bfa4176797
+        language: python
+      - id: de25a12c-2459-4713-b710-8e2853424afc
+        type: code
+        position: 20
+        parent: aca7a514-6c25-4f7a-8145-539d4f332c69
+        language: python
+      - id: 28b623c1-840b-4073-935d-2babef86fae1
+        type: code
+        position: 21
+        parent: de25a12c-2459-4713-b710-8e2853424afc
+        language: python
